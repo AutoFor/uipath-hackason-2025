@@ -1,5 +1,13 @@
 # 🏥 カルテからレセプトへの業務自動化 with UiPath Agentic Automation
 
+## 📄 提案書（日本語）
+
+👉 [提案書はこちら（docs/Proposal.md）](https://github.com/AutoFor/uipath-hackason-2025/blob/draft/docs/00_Proposal.md)
+
+このリポジトリの詳細な提案背景、課題構造、活用技術などは上記Markdownにまとめています。
+
+---
+
 ## 概要
 
 本リポジトリは、UiPath主催のグローバルハッカソン **AgentHack 2024** に向けた提案プロジェクトです。
